@@ -3,7 +3,7 @@ public static void main(String[] args){
 //printing message
 System.out.println("Welcome to git training");
 }
-
-void test(){
-
+// Edited by user 2
+void test(int i,int j){
+System.out.println("output :"+i+j);
 }
