@@ -8,7 +8,13 @@ System.out.println("Welcome to git training");
 void test(String i,int j){
 System.out.println("output :"+i+j);
 System.out.println("End of the test()");
+process();
 }
+
+void process(){
+System.out.println("Process completed:");
+}
+
 
 }
 
