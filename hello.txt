@@ -7,6 +7,7 @@ System.out.println("Welcome to git training");
 // Edited by user 2
 void test(String i,int j){
 System.out.println("output :"+i+j);
+System.out.println("End of the test()");
 }
 
 }
