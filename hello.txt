@@ -3,4 +3,7 @@ public static void main(String[] args){
 //printing message
 System.out.println("Welcome to git training");
 }
+
+void test(){
+
 }
