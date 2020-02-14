@@ -4,6 +4,6 @@ public static void main(String[] args){
 System.out.println("Welcome to git training");
 }
 
-void test(){
-
+void test(String s1,String s2){
+System.out.println("Test output is : "+(s1+s2));
 }
